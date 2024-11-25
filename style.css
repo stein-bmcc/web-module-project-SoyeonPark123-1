@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(199, 240, 240);
+}
+
+p{
+    font-size: 24px;
+}
+
+img, video{
+	max-width: 100%;
+	height: auto;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li{
+  display: inline-block;
+  margin-right: 40px;
+}
